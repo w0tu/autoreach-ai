@@ -1,3 +1,4 @@
 - 2025-09-25T09:11:23: feat: add temperature and top-p sampling heuristics
 - 2025-09-29T09:11:23: perf: accelerate matrix vector multiplication on CPU
 - 2025-10-03T09:11:23: fix: token streaming buffer overflow in local runtime
+- 2025-10-07T09:11:23: refactor: async prompt evaluation pipeline
