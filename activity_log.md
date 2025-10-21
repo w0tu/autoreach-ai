@@ -4,3 +4,4 @@
 - 2025-10-07T09:11:23: refactor: async prompt evaluation pipeline
 - 2025-10-13T09:11:23: fix: context window tokenizer truncation edge case
 - 2025-10-17T09:11:23: refactor: async prompt evaluation pipeline
+- 2025-10-21T09:11:23: feat: optimize quantized attention kernel
