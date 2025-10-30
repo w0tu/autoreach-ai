@@ -6,3 +6,4 @@
 - 2025-10-17T09:11:23: refactor: async prompt evaluation pipeline
 - 2025-10-21T09:11:23: feat: optimize quantized attention kernel
 - 2025-10-26T09:11:23: refactor: async prompt evaluation pipeline
+- 2025-10-30T09:11:23: perf: accelerate matrix vector multiplication on CPU
