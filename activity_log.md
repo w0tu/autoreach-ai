@@ -10,3 +10,4 @@
 - 2025-11-04T09:11:23: fix: context window tokenizer truncation edge case
 - 2025-11-09T09:11:23: feat: add temperature and top-p sampling heuristics
 - 2025-11-13T09:11:23: refactor: async prompt evaluation pipeline
+- 2025-11-18T09:11:23: chore: update neural network layer abstractions
