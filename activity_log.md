@@ -12,3 +12,4 @@
 - 2025-11-13T09:11:23: refactor: async prompt evaluation pipeline
 - 2025-11-18T09:11:23: chore: update neural network layer abstractions
 - 2025-11-24T09:11:23: perf: memory-mapped model weights streaming
+- 2025-11-30T09:11:23: fix: context window tokenizer truncation edge case
