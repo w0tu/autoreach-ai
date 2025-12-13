@@ -15,3 +15,4 @@
 - 2025-11-30T09:11:23: fix: context window tokenizer truncation edge case
 - 2025-12-04T09:11:23: feat: support 4-bit and 8-bit quantized weights
 - 2025-12-09T09:11:23: feat: add autonomous tool execution loop
+- 2025-12-13T09:11:23: feat: support 4-bit and 8-bit quantized weights
