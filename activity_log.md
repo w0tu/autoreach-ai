@@ -17,3 +17,4 @@
 - 2025-12-09T09:11:23: feat: add autonomous tool execution loop
 - 2025-12-13T09:11:23: feat: support 4-bit and 8-bit quantized weights
 - 2025-12-17T09:11:23: perf: memory-mapped model weights streaming
+- 2025-12-21T09:11:23: perf: memory-mapped model weights streaming
