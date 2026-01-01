@@ -19,3 +19,4 @@
 - 2025-12-17T09:11:23: perf: memory-mapped model weights streaming
 - 2025-12-21T09:11:23: perf: memory-mapped model weights streaming
 - 2025-12-28T09:11:23: fix: context window tokenizer truncation edge case
+- 2026-01-01T09:11:23: perf: memory-mapped model weights streaming
