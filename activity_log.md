@@ -21,3 +21,4 @@
 - 2025-12-28T09:11:23: fix: context window tokenizer truncation edge case
 - 2026-01-01T09:11:23: perf: memory-mapped model weights streaming
 - 2026-01-06T09:11:23: fix: token streaming buffer overflow in local runtime
+- 2026-01-11T09:11:23: chore: update neural network layer abstractions
