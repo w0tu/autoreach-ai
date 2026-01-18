@@ -25,3 +25,4 @@
 - 2026-01-15T09:11:23: fix: token streaming buffer overflow in local runtime
 - 2026-01-18T09:48:06: fix: token streaming buffer overflow in local runtime
 - 2026-01-18T12:16:58: docs: benchmark inference latency and memory footprints
+- 2026-01-18T15:44:50: refactor: async prompt evaluation pipeline
