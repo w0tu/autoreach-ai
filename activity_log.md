@@ -30,3 +30,4 @@
 - 2026-01-19T09:11:23: refactor: async prompt evaluation pipeline
 - 2026-01-19T11:39:15: feat: add temperature and top-p sampling heuristics
 - 2026-01-19T13:07:07: refactor: Ollama GGUF model loader parameters
+- 2026-01-19T15:35:59: fix: token streaming buffer overflow in local runtime
