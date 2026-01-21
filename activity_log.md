@@ -42,3 +42,4 @@
 - 2026-01-21T11:16:58: docs: benchmark inference latency and memory footprints
 - 2026-01-21T13:44:50: feat: add temperature and top-p sampling heuristics
 - 2026-01-21T16:12:42: feat: optimize quantized attention kernel
+- 2026-01-21T18:40:34: feat: support 4-bit and 8-bit quantized weights
