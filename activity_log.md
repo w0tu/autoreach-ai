@@ -40,3 +40,4 @@
 - 2026-01-20T19:03:51: feat: add temperature and top-p sampling heuristics
 - 2026-01-21T09:48:06: refactor: async prompt evaluation pipeline
 - 2026-01-21T11:16:58: docs: benchmark inference latency and memory footprints
+- 2026-01-21T13:44:50: feat: add temperature and top-p sampling heuristics
