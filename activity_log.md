@@ -47,3 +47,4 @@
 - 2026-01-24T09:11:23: feat: add temperature and top-p sampling heuristics
 - 2026-01-24T11:39:15: feat: add temperature and top-p sampling heuristics
 - 2026-01-24T14:07:07: perf: memory-mapped model weights streaming
+- 2026-01-24T17:35:59: refactor: async prompt evaluation pipeline
