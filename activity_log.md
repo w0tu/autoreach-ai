@@ -50,3 +50,4 @@
 - 2026-01-24T17:35:59: refactor: async prompt evaluation pipeline
 - 2026-01-24T20:03:51: fix: context window tokenizer truncation edge case
 - 2026-01-25T11:25:49: feat: add autonomous tool execution loop
+- 2026-01-25T15:53:41: refactor: Ollama GGUF model loader parameters
