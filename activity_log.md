@@ -52,3 +52,4 @@
 - 2026-01-25T11:25:49: feat: add autonomous tool execution loop
 - 2026-01-25T15:53:41: refactor: Ollama GGUF model loader parameters
 - 2026-01-25T19:21:33: feat: add temperature and top-p sampling heuristics
+- 2026-01-27T09:11:23: feat: support 4-bit and 8-bit quantized weights
