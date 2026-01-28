@@ -54,3 +54,4 @@
 - 2026-01-25T19:21:33: feat: add temperature and top-p sampling heuristics
 - 2026-01-27T09:11:23: feat: support 4-bit and 8-bit quantized weights
 - 2026-01-28T12:02:32: feat: optimize quantized attention kernel
+- 2026-01-28T16:30:24: perf: memory-mapped model weights streaming
