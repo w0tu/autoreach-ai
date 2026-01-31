@@ -60,3 +60,4 @@
 - 2026-01-31T12:39:15: docs: benchmark inference latency and memory footprints
 - 2026-01-31T15:07:07: refactor: Ollama GGUF model loader parameters
 - 2026-01-31T18:35:59: feat: add temperature and top-p sampling heuristics
+- 2026-01-31T21:03:51: feat: add temperature and top-p sampling heuristics
