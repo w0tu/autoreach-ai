@@ -62,3 +62,4 @@
 - 2026-01-31T18:35:59: feat: add temperature and top-p sampling heuristics
 - 2026-01-31T21:03:51: feat: add temperature and top-p sampling heuristics
 - 2026-02-01T10:02:32: chore: update neural network layer abstractions
+- 2026-02-01T12:30:24: feat: add autonomous tool execution loop
