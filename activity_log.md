@@ -65,3 +65,4 @@
 - 2026-02-01T12:30:24: feat: add autonomous tool execution loop
 - 2026-02-01T15:58:16: feat: add temperature and top-p sampling heuristics
 - 2026-02-01T17:26:08: refactor: Ollama GGUF model loader parameters
+- 2026-02-01T19:54:00: feat: optimize quantized attention kernel
