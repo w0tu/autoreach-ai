@@ -70,3 +70,4 @@
 - 2026-02-04T10:25:49: feat: optimize quantized attention kernel
 - 2026-02-04T13:53:41: refactor: async prompt evaluation pipeline
 - 2026-02-04T16:21:33: perf: accelerate matrix vector multiplication on CPU
+- 2026-02-04T19:49:25: feat: support 4-bit and 8-bit quantized weights
