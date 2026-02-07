@@ -74,3 +74,4 @@
 - 2026-02-07T09:11:23: feat: add autonomous tool execution loop
 - 2026-02-07T13:39:15: perf: accelerate matrix vector multiplication on CPU
 - 2026-02-07T17:07:07: docs: benchmark inference latency and memory footprints
+- 2026-02-07T21:35:59: feat: add temperature and top-p sampling heuristics
