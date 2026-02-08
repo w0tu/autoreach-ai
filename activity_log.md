@@ -78,3 +78,4 @@
 - 2026-02-08T11:02:32: fix: context window tokenizer truncation edge case
 - 2026-02-08T14:30:24: feat: add temperature and top-p sampling heuristics
 - 2026-02-08T16:58:16: fix: context window tokenizer truncation edge case
+- 2026-02-08T19:26:08: fix: token streaming buffer overflow in local runtime
