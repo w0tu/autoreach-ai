@@ -80,3 +80,4 @@
 - 2026-02-08T16:58:16: fix: context window tokenizer truncation edge case
 - 2026-02-08T19:26:08: fix: token streaming buffer overflow in local runtime
 - 2026-02-10T09:11:23: chore: update neural network layer abstractions
+- 2026-02-11T10:02:32: feat: support 4-bit and 8-bit quantized weights
