@@ -82,3 +82,4 @@
 - 2026-02-10T09:11:23: chore: update neural network layer abstractions
 - 2026-02-11T10:02:32: feat: support 4-bit and 8-bit quantized weights
 - 2026-02-11T13:30:24: feat: support 4-bit and 8-bit quantized weights
+- 2026-02-11T15:58:16: feat: support 4-bit and 8-bit quantized weights
