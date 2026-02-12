@@ -87,3 +87,4 @@
 - 2026-02-11T20:54:00: perf: memory-mapped model weights streaming
 - 2026-02-12T10:25:49: docs: benchmark inference latency and memory footprints
 - 2026-02-12T12:53:41: fix: token streaming buffer overflow in local runtime
+- 2026-02-12T14:21:33: fix: context window tokenizer truncation edge case
