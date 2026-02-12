@@ -89,3 +89,4 @@
 - 2026-02-12T12:53:41: fix: token streaming buffer overflow in local runtime
 - 2026-02-12T14:21:33: fix: context window tokenizer truncation edge case
 - 2026-02-12T17:49:25: perf: accelerate matrix vector multiplication on CPU
+- 2026-02-12T19:17:17: perf: memory-mapped model weights streaming
