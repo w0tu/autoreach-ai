@@ -91,3 +91,4 @@
 - 2026-02-12T17:49:25: perf: accelerate matrix vector multiplication on CPU
 - 2026-02-12T19:17:17: perf: memory-mapped model weights streaming
 - 2026-02-13T09:11:23: refactor: async prompt evaluation pipeline
+- 2026-02-13T12:39:15: fix: context window tokenizer truncation edge case
