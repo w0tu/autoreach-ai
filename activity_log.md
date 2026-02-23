@@ -102,3 +102,4 @@
 - 2026-02-23T09:11:23: perf: memory-mapped model weights streaming
 - 2026-02-23T13:39:15: refactor: Ollama GGUF model loader parameters
 - 2026-02-23T17:07:07: fix: context window tokenizer truncation edge case
+- 2026-02-23T21:35:59: fix: context window tokenizer truncation edge case
