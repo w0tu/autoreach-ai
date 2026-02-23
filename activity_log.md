@@ -100,3 +100,4 @@
 - 2026-02-14T21:49:25: perf: accelerate matrix vector multiplication on CPU
 - 2026-02-18T09:11:23: docs: benchmark inference latency and memory footprints
 - 2026-02-23T09:11:23: perf: memory-mapped model weights streaming
+- 2026-02-23T13:39:15: refactor: Ollama GGUF model loader parameters
