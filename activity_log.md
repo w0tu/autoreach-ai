@@ -106,3 +106,4 @@
 - 2026-02-24T12:02:32: docs: benchmark inference latency and memory footprints
 - 2026-02-24T16:30:24: refactor: async prompt evaluation pipeline
 - 2026-02-24T20:58:16: fix: context window tokenizer truncation edge case
+- 2026-02-25T10:25:49: chore: update neural network layer abstractions
