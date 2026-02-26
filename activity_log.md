@@ -114,3 +114,4 @@
 - 2026-02-26T10:02:32: refactor: Ollama GGUF model loader parameters
 - 2026-02-26T13:30:24: feat: add autonomous tool execution loop
 - 2026-02-26T15:58:16: feat: add temperature and top-p sampling heuristics
+- 2026-02-26T18:26:08: fix: context window tokenizer truncation edge case
