@@ -117,3 +117,4 @@
 - 2026-02-26T18:26:08: fix: context window tokenizer truncation edge case
 - 2026-02-26T20:54:00: fix: context window tokenizer truncation edge case
 - 2026-02-27T10:25:49: feat: support 4-bit and 8-bit quantized weights
+- 2026-02-27T14:53:41: feat: optimize quantized attention kernel
