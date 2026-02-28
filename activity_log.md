@@ -121,3 +121,4 @@
 - 2026-02-27T18:21:33: refactor: Ollama GGUF model loader parameters
 - 2026-02-28T09:11:23: fix: context window tokenizer truncation edge case
 - 2026-02-28T11:39:15: feat: add temperature and top-p sampling heuristics
+- 2026-02-28T14:07:07: refactor: async prompt evaluation pipeline
