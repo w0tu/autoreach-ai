@@ -124,3 +124,4 @@
 - 2026-02-28T14:07:07: refactor: async prompt evaluation pipeline
 - 2026-02-28T17:35:59: chore: update neural network layer abstractions
 - 2026-02-28T19:03:51: refactor: Ollama GGUF model loader parameters
+- 2026-03-01T09:48:06: feat: support 4-bit and 8-bit quantized weights
