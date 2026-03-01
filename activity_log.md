@@ -127,3 +127,4 @@
 - 2026-03-01T09:48:06: feat: support 4-bit and 8-bit quantized weights
 - 2026-03-01T12:16:58: chore: update neural network layer abstractions
 - 2026-03-01T15:44:50: perf: accelerate matrix vector multiplication on CPU
+- 2026-03-01T18:12:42: fix: token streaming buffer overflow in local runtime
