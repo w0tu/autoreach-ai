@@ -128,3 +128,4 @@
 - 2026-03-01T12:16:58: chore: update neural network layer abstractions
 - 2026-03-01T15:44:50: perf: accelerate matrix vector multiplication on CPU
 - 2026-03-01T18:12:42: fix: token streaming buffer overflow in local runtime
+- 2026-03-03T09:11:23: feat: optimize quantized attention kernel
