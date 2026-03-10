@@ -138,3 +138,4 @@
 - 2026-03-08T13:30:24: feat: optimize quantized attention kernel
 - 2026-03-08T16:58:16: docs: benchmark inference latency and memory footprints
 - 2026-03-08T19:26:08: docs: benchmark inference latency and memory footprints
+- 2026-03-10T09:11:23: docs: benchmark inference latency and memory footprints
