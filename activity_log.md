@@ -141,3 +141,4 @@
 - 2026-03-10T09:11:23: docs: benchmark inference latency and memory footprints
 - 2026-03-11T12:02:32: chore: update neural network layer abstractions
 - 2026-03-11T17:30:24: perf: memory-mapped model weights streaming
+- 2026-03-13T09:11:23: fix: context window tokenizer truncation edge case
