@@ -144,3 +144,4 @@
 - 2026-03-13T09:11:23: fix: context window tokenizer truncation edge case
 - 2026-03-16T09:48:06: feat: optimize quantized attention kernel
 - 2026-03-16T12:16:58: refactor: async prompt evaluation pipeline
+- 2026-03-16T15:44:50: perf: accelerate matrix vector multiplication on CPU
