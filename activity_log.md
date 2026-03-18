@@ -152,3 +152,4 @@
 - 2026-03-18T09:11:23: fix: context window tokenizer truncation edge case
 - 2026-03-18T13:39:15: fix: context window tokenizer truncation edge case
 - 2026-03-18T17:07:07: refactor: async prompt evaluation pipeline
+- 2026-03-18T21:35:59: fix: token streaming buffer overflow in local runtime
