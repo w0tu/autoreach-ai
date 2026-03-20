@@ -158,3 +158,4 @@
 - 2026-03-19T18:58:16: refactor: Ollama GGUF model loader parameters
 - 2026-03-20T09:11:23: chore: update neural network layer abstractions
 - 2026-03-20T13:39:15: refactor: Ollama GGUF model loader parameters
+- 2026-03-20T18:07:07: fix: context window tokenizer truncation edge case
