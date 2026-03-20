@@ -157,3 +157,4 @@
 - 2026-03-19T15:30:24: perf: accelerate matrix vector multiplication on CPU
 - 2026-03-19T18:58:16: refactor: Ollama GGUF model loader parameters
 - 2026-03-20T09:11:23: chore: update neural network layer abstractions
+- 2026-03-20T13:39:15: refactor: Ollama GGUF model loader parameters
