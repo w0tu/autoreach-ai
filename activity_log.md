@@ -163,3 +163,4 @@
 - 2026-03-21T11:16:58: feat: optimize quantized attention kernel
 - 2026-03-21T14:44:50: fix: context window tokenizer truncation edge case
 - 2026-03-21T16:12:42: docs: benchmark inference latency and memory footprints
+- 2026-03-21T19:40:34: feat: add autonomous tool execution loop
