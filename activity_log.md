@@ -161,3 +161,4 @@
 - 2026-03-20T18:07:07: fix: context window tokenizer truncation edge case
 - 2026-03-21T09:48:06: feat: optimize quantized attention kernel
 - 2026-03-21T11:16:58: feat: optimize quantized attention kernel
+- 2026-03-21T14:44:50: fix: context window tokenizer truncation edge case
