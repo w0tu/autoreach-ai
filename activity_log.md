@@ -170,3 +170,4 @@
 - 2026-03-30T12:16:58: perf: memory-mapped model weights streaming
 - 2026-03-30T14:44:50: feat: add temperature and top-p sampling heuristics
 - 2026-03-30T17:12:42: docs: benchmark inference latency and memory footprints
+- 2026-03-30T19:40:34: fix: context window tokenizer truncation edge case
