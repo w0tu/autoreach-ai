@@ -175,3 +175,4 @@
 - 2026-03-31T11:39:15: feat: optimize quantized attention kernel
 - 2026-03-31T13:07:07: feat: support 4-bit and 8-bit quantized weights
 - 2026-03-31T15:35:59: refactor: async prompt evaluation pipeline
+- 2026-03-31T18:03:51: feat: support 4-bit and 8-bit quantized weights
