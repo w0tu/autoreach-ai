@@ -173,3 +173,4 @@
 - 2026-03-30T19:40:34: fix: context window tokenizer truncation edge case
 - 2026-03-31T09:11:23: perf: accelerate matrix vector multiplication on CPU
 - 2026-03-31T11:39:15: feat: optimize quantized attention kernel
+- 2026-03-31T13:07:07: feat: support 4-bit and 8-bit quantized weights
