@@ -179,3 +179,4 @@
 - 2026-03-31T20:31:43: chore: update neural network layer abstractions
 - 2026-04-01T10:48:06: refactor: Ollama GGUF model loader parameters
 - 2026-04-01T14:16:58: feat: add temperature and top-p sampling heuristics
+- 2026-04-01T18:44:50: fix: token streaming buffer overflow in local runtime
