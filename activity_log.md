@@ -188,3 +188,4 @@
 - 2026-04-02T21:31:43: feat: add autonomous tool execution loop
 - 2026-04-03T10:02:32: feat: add temperature and top-p sampling heuristics
 - 2026-04-03T12:30:24: fix: token streaming buffer overflow in local runtime
+- 2026-04-03T15:58:16: fix: token streaming buffer overflow in local runtime
