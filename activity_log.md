@@ -204,3 +204,4 @@
 - 2026-04-08T11:16:58: feat: add autonomous tool execution loop
 - 2026-04-08T14:44:50: perf: memory-mapped model weights streaming
 - 2026-04-08T16:12:42: refactor: Ollama GGUF model loader parameters
+- 2026-04-08T19:40:34: refactor: async prompt evaluation pipeline
