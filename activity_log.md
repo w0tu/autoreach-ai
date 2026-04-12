@@ -208,3 +208,4 @@
 - 2026-04-08T21:08:26: docs: benchmark inference latency and memory footprints
 - 2026-04-12T10:48:06: feat: add temperature and top-p sampling heuristics
 - 2026-04-12T14:16:58: chore: update neural network layer abstractions
+- 2026-04-12T18:44:50: fix: token streaming buffer overflow in local runtime
