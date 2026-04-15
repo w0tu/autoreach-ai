@@ -211,3 +211,4 @@
 - 2026-04-12T18:44:50: fix: token streaming buffer overflow in local runtime
 - 2026-04-14T09:11:23: feat: add autonomous tool execution loop
 - 2026-04-15T11:02:32: fix: context window tokenizer truncation edge case
+- 2026-04-15T15:30:24: feat: add autonomous tool execution loop
