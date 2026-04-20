@@ -216,3 +216,4 @@
 - 2026-04-17T09:11:23: feat: add temperature and top-p sampling heuristics
 - 2026-04-20T11:25:49: fix: token streaming buffer overflow in local runtime
 - 2026-04-20T16:53:41: fix: context window tokenizer truncation edge case
+- 2026-04-20T20:21:33: feat: optimize quantized attention kernel
