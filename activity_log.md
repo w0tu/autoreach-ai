@@ -223,3 +223,4 @@
 - 2026-04-22T11:39:15: perf: memory-mapped model weights streaming
 - 2026-04-22T13:07:07: docs: benchmark inference latency and memory footprints
 - 2026-04-22T16:35:59: fix: token streaming buffer overflow in local runtime
+- 2026-04-22T18:03:51: feat: add autonomous tool execution loop
