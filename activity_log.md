@@ -228,3 +228,4 @@
 - 2026-04-23T10:02:32: chore: update neural network layer abstractions
 - 2026-04-23T12:30:24: feat: add temperature and top-p sampling heuristics
 - 2026-04-23T15:58:16: feat: optimize quantized attention kernel
+- 2026-04-23T17:26:08: fix: token streaming buffer overflow in local runtime
