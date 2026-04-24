@@ -230,3 +230,4 @@
 - 2026-04-23T15:58:16: feat: optimize quantized attention kernel
 - 2026-04-23T17:26:08: fix: token streaming buffer overflow in local runtime
 - 2026-04-23T19:54:00: chore: update neural network layer abstractions
+- 2026-04-24T09:11:23: refactor: Ollama GGUF model loader parameters
