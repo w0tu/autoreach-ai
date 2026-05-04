@@ -245,3 +245,4 @@
 - 2026-05-03T19:44:50: refactor: Ollama GGUF model loader parameters
 - 2026-05-04T10:25:49: feat: optimize quantized attention kernel
 - 2026-05-04T13:53:41: docs: benchmark inference latency and memory footprints
+- 2026-05-04T16:21:33: fix: context window tokenizer truncation edge case
