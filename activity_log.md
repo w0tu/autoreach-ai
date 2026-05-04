@@ -243,3 +243,4 @@
 - 2026-05-03T10:48:06: perf: accelerate matrix vector multiplication on CPU
 - 2026-05-03T14:16:58: refactor: Ollama GGUF model loader parameters
 - 2026-05-03T19:44:50: refactor: Ollama GGUF model loader parameters
+- 2026-05-04T10:25:49: feat: optimize quantized attention kernel
