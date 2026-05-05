@@ -251,3 +251,4 @@
 - 2026-05-05T11:39:15: refactor: Ollama GGUF model loader parameters
 - 2026-05-05T13:07:07: fix: context window tokenizer truncation edge case
 - 2026-05-05T16:35:59: refactor: Ollama GGUF model loader parameters
+- 2026-05-05T18:03:51: fix: context window tokenizer truncation edge case
