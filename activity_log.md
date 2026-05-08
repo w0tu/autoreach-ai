@@ -262,3 +262,4 @@
 - 2026-05-07T11:25:49: feat: add autonomous tool execution loop
 - 2026-05-07T16:53:41: feat: optimize quantized attention kernel
 - 2026-05-07T20:21:33: perf: accelerate matrix vector multiplication on CPU
+- 2026-05-08T11:02:32: fix: context window tokenizer truncation edge case
