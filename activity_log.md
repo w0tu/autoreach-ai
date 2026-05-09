@@ -270,3 +270,4 @@
 - 2026-05-09T11:39:15: fix: context window tokenizer truncation edge case
 - 2026-05-09T14:07:07: feat: add temperature and top-p sampling heuristics
 - 2026-05-09T17:35:59: feat: optimize quantized attention kernel
+- 2026-05-09T19:03:51: perf: memory-mapped model weights streaming
