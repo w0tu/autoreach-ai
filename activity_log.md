@@ -266,3 +266,4 @@
 - 2026-05-08T13:30:24: chore: update neural network layer abstractions
 - 2026-05-08T16:58:16: perf: memory-mapped model weights streaming
 - 2026-05-08T19:26:08: fix: context window tokenizer truncation edge case
+- 2026-05-09T09:11:23: perf: accelerate matrix vector multiplication on CPU
