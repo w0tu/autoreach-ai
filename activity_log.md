@@ -275,3 +275,4 @@
 - 2026-05-10T12:16:58: docs: benchmark inference latency and memory footprints
 - 2026-05-10T15:44:50: refactor: async prompt evaluation pipeline
 - 2026-05-10T18:12:42: perf: memory-mapped model weights streaming
+- 2026-05-10T21:40:34: feat: optimize quantized attention kernel
