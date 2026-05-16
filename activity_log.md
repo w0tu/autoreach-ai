@@ -280,3 +280,4 @@
 - 2026-05-16T10:25:49: perf: memory-mapped model weights streaming
 - 2026-05-16T13:53:41: chore: update neural network layer abstractions
 - 2026-05-16T16:21:33: refactor: async prompt evaluation pipeline
+- 2026-05-16T19:49:25: perf: accelerate matrix vector multiplication on CPU
