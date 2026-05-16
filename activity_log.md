@@ -277,3 +277,4 @@
 - 2026-05-10T18:12:42: perf: memory-mapped model weights streaming
 - 2026-05-10T21:40:34: feat: optimize quantized attention kernel
 - 2026-05-14T09:11:23: feat: add autonomous tool execution loop
+- 2026-05-16T10:25:49: perf: memory-mapped model weights streaming
