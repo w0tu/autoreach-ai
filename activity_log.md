@@ -285,3 +285,4 @@
 - 2026-05-17T11:16:58: fix: token streaming buffer overflow in local runtime
 - 2026-05-17T14:44:50: feat: support 4-bit and 8-bit quantized weights
 - 2026-05-17T16:12:42: feat: optimize quantized attention kernel
+- 2026-05-17T19:40:34: fix: context window tokenizer truncation edge case
