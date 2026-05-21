@@ -287,3 +287,4 @@
 - 2026-05-17T16:12:42: feat: optimize quantized attention kernel
 - 2026-05-17T19:40:34: fix: context window tokenizer truncation edge case
 - 2026-05-17T21:08:26: perf: memory-mapped model weights streaming
+- 2026-05-21T09:11:23: docs: benchmark inference latency and memory footprints
