@@ -295,3 +295,4 @@
 - 2026-05-25T09:48:06: feat: add autonomous tool execution loop
 - 2026-05-25T12:16:58: perf: accelerate matrix vector multiplication on CPU
 - 2026-05-25T15:44:50: fix: context window tokenizer truncation edge case
+- 2026-05-25T18:12:42: refactor: async prompt evaluation pipeline
