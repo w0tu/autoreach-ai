@@ -293,3 +293,4 @@
 - 2026-05-23T17:58:16: feat: optimize quantized attention kernel
 - 2026-05-23T20:26:08: feat: support 4-bit and 8-bit quantized weights
 - 2026-05-25T09:48:06: feat: add autonomous tool execution loop
+- 2026-05-25T12:16:58: perf: accelerate matrix vector multiplication on CPU
