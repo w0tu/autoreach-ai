@@ -300,3 +300,4 @@
 - 2026-05-26T11:39:15: feat: optimize quantized attention kernel
 - 2026-05-26T13:07:07: feat: support 4-bit and 8-bit quantized weights
 - 2026-05-26T15:35:59: chore: update neural network layer abstractions
+- 2026-05-26T17:03:51: perf: memory-mapped model weights streaming
