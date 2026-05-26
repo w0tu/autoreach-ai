@@ -297,3 +297,4 @@
 - 2026-05-25T15:44:50: fix: context window tokenizer truncation edge case
 - 2026-05-25T18:12:42: refactor: async prompt evaluation pipeline
 - 2026-05-26T09:11:23: feat: optimize quantized attention kernel
+- 2026-05-26T11:39:15: feat: optimize quantized attention kernel
