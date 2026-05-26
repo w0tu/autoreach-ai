@@ -301,3 +301,4 @@
 - 2026-05-26T13:07:07: feat: support 4-bit and 8-bit quantized weights
 - 2026-05-26T15:35:59: chore: update neural network layer abstractions
 - 2026-05-26T17:03:51: perf: memory-mapped model weights streaming
+- 2026-05-26T19:31:43: fix: context window tokenizer truncation edge case
