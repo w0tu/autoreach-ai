@@ -305,3 +305,4 @@
 - 2026-05-27T09:11:23: feat: add autonomous tool execution loop
 - 2026-05-27T12:39:15: perf: memory-mapped model weights streaming
 - 2026-05-27T15:07:07: fix: context window tokenizer truncation edge case
+- 2026-05-27T18:35:59: docs: benchmark inference latency and memory footprints
