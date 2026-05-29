@@ -310,3 +310,4 @@
 - 2026-05-28T11:02:32: feat: add temperature and top-p sampling heuristics
 - 2026-05-28T15:30:24: docs: benchmark inference latency and memory footprints
 - 2026-05-28T18:58:16: fix: context window tokenizer truncation edge case
+- 2026-05-29T09:11:23: refactor: async prompt evaluation pipeline
