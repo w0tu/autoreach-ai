@@ -313,3 +313,4 @@
 - 2026-05-29T09:11:23: refactor: async prompt evaluation pipeline
 - 2026-05-29T11:39:15: perf: memory-mapped model weights streaming
 - 2026-05-29T13:07:07: perf: memory-mapped model weights streaming
+- 2026-05-29T16:35:59: fix: context window tokenizer truncation edge case
