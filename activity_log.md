@@ -317,3 +317,4 @@
 - 2026-05-29T18:03:51: perf: memory-mapped model weights streaming
 - 2026-05-29T20:31:43: feat: add autonomous tool execution loop
 - 2026-06-01T09:11:23: feat: add autonomous tool execution loop
+- 2026-06-06T09:11:23: refactor: Ollama GGUF model loader parameters
