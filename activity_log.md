@@ -321,3 +321,4 @@
 - 2026-06-12T09:11:23: chore: update neural network layer abstractions
 - 2026-06-16T09:11:23: feat: support 4-bit and 8-bit quantized weights
 - 2026-06-20T09:11:23: refactor: async prompt evaluation pipeline
+- 2026-06-24T09:11:23: feat: optimize quantized attention kernel
