@@ -328,3 +328,4 @@
 - 2026-07-15T09:11:23: feat: add temperature and top-p sampling heuristics
 - 2026-07-19T09:11:23: feat: support 4-bit and 8-bit quantized weights
 - 2026-07-23T09:11:23: perf: accelerate matrix vector multiplication on CPU
+- 2026-07-28T09:11:23: feat: support 4-bit and 8-bit quantized weights
