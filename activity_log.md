@@ -335,3 +335,4 @@
 - 2026-08-15T09:11:23: chore: update neural network layer abstractions
 - 2026-08-20T09:11:23: feat: optimize quantized attention kernel
 - 2026-08-24T09:11:23: refactor: async prompt evaluation pipeline
+- 2026-08-30T09:11:23: docs: benchmark inference latency and memory footprints
