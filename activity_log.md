@@ -338,3 +338,4 @@
 - 2026-08-30T09:11:23: docs: benchmark inference latency and memory footprints
 - 2026-09-04T09:11:23: docs: benchmark inference latency and memory footprints
 - 2026-09-08T09:11:23: fix: token streaming buffer overflow in local runtime
+- 2026-09-13T09:11:23: fix: token streaming buffer overflow in local runtime
